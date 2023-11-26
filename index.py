@@ -5,7 +5,6 @@ import os
 import json
 import colorama
 
-os.chdir("C:\\Users\\Utilisateur\\Desktop\\projet\\eazy shell")
 
 def reset():
     RzIp = "default/ip.json"
