@@ -8,6 +8,11 @@ fire shell
 
 # in using fire shell you agree the thermes of use
 
-start info :
+start info for windows :
     | & python-link "link fire shell/index.py"
+    |___
+
+default user:
+    | user : user
+    | password : 1234
     |___
